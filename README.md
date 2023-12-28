@@ -1,2 +1,4 @@
 # dacon
-dacon에 참여한 코드들을 저장합니다.
+
+### [대구 교통사고 피해 예측 AI 경진대회](https://dacon.io/competitions/official/236193/overview/description)
+: Public 6위, Private 48위(상위 6%)
