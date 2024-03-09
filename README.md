@@ -1,7 +1,7 @@
 # 대구 교통사고 피해 예측 AI 경진대회
 
 
->  : [http://voluntain.cs.skku.edu/](https://dacon.io/competitions/official/236193/overview/description) <br>
+>  : [Dacon//](https://dacon.io/competitions/official/236193/overview/description) <br>
 
 
 <div align="center">
